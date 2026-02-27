@@ -1,4 +1,4 @@
-# Steel Plates git remote add origin https://github.com/your-username/your-repo-name.git Project
+# Steel Plates Faults Classification Project
 
 ## Overview
 
